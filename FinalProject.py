@@ -6,7 +6,7 @@ from tkinter import messagebox
 #----------------------------------Main window set up---------------------------------------------------------------------------------------------------------------------------
 Main = Tk()
 Main.title("GUI Pizza Ordering Page")
-Main.iconbitmap(r'C:\\Users\\Nicholas\\Desktop\\Software Development\\Module 8\\Final Project\\Images\\pizza.ico')
+Main.iconbitmap(r'pizza.ico')
 Main.geometry("434x400")
 #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
