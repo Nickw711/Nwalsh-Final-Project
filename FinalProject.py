@@ -45,7 +45,7 @@ def proceedChkout():
     if sizeOption.get() != "" and sauceOption.get() != "":
         Chkout = Toplevel(Main)
         Chkout.title("GUI Pizza Checkout Page")
-        Chkout.iconbitmap(r'C:\\Users\\Nicholas\\Desktop\\Software Development\\Module 8\\Final Project\\Images\\pizza.ico')
+        Chkout.iconbitmap(r'pizza.ico')
         Chkout.geometry("450x350")
 #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
